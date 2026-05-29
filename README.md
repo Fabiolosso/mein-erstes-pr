@@ -1,6 +1,6 @@
 ﻿# Mein erstes PR-Experiment
 
-Dieses Repository dient zum Üben von Pull Requets.
+Dieses Repository dient zum Üben von Pull Requests.
 
 ## Über das Projekt
 
